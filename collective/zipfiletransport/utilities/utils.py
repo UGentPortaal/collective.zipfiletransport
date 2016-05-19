@@ -425,7 +425,7 @@ class ZipFileTransportUtility(SimpleItem):
                         object_path = object_path.replace(context_path + '/', '')
 
                     if object_path[-5:] != ".html" and object_path[-4:] != ".htm":
-                        object_extension = ".html"i
+                        object_extension = ".html"
 
             # export for ugent.infofiche contenttype, PCM-494 
             elif self._objImplementsInterface(obj, IInfofiche):

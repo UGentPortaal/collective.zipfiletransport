@@ -1,4 +1,4 @@
-<tal:block tal:define="paths request/paths|nothing ">
+<tal:block i18n:domain="ZipFileTransport" tal:define="paths request/paths|nothing">
 
 <p tal:condition="python:not paths" i18n:translate="">
   All files in the folder will be exported in .zip file format.

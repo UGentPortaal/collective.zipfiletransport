@@ -21,11 +21,11 @@ msgstr ""
 #. Default: "All files in the folder will be exported in .zip file format."
 #: ./browser/export_widget.pt:10
 msgid "All files in the folder will be exported in .zip file format."
-msgstr ""
+msgstr "Alle bestanden in deze map worden geëxporteerd in een zip-bestand."
 
 #: ./browser/zipexport.py:63
 msgid "All files in the folder will be exported in .zip file format"
-msgstr ""
+msgstr "Alle bestanden in deze map worden geëxporteerd in een zip-bestand."
 
 #: ./browser/interfaces.py:48
 msgid "Also known as keywords, tags or labels, these help you categorize your content. Each category should be on a separate line."
@@ -54,11 +54,11 @@ msgstr ""
 
 #: ./browser/zipexport.py:72
 msgid "Export"
-msgstr ""
+msgstr "Exporteren"
 
 #: ./browser/zipexport.py:62
 msgid "Export Content"
-msgstr ""
+msgstr "Bestanden exporteren"
 
 #: ./browser/zipfiletransportprefs.py:42
 msgid "File Type"
@@ -122,11 +122,11 @@ msgstr ""
 #. Default: "The following files will be exported in .zip file format:"
 #: ./browser/export_widget.pt:14
 msgid "The following files will be exported in .zip file format:"
-msgstr ""
+msgstr "Volgende bestanden worden geëxporteerd in een Zip-bestand:"
 
 #: ./browser/interfaces.py:33
 msgid "The name of the file downloaded to your local machine."
-msgstr ""
+msgstr "Naam van het bestand dat gedownload wordt."
 
 #: ./browser/interfaces.py:44
 msgid "The names of people that have contributed to imported item(s).  Each contributor should be on a separate line."
@@ -139,11 +139,11 @@ msgstr ""
 #. Default: "Zip File"
 #: ./browser/interfaces.py:63
 msgid "Zip File"
-msgstr "Zip file"
+msgstr "Zip bestand"
 
 #: ./browser/interfaces.py:32
 msgid "Zip File Export"
-msgstr ""
+msgstr "Exporteren naar Zip-bestand"
 
 #: ./browser/zipfiletransportprefs.py:110
 msgid "ZipFileTransport Settings"

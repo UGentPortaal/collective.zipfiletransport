@@ -54,11 +54,11 @@ msgstr ""
 
 #: ./browser/zipexport.py:72
 msgid "Export"
-msgstr "Exporteren"
+msgstr "Exporteer"
 
 #: ./browser/zipexport.py:62
 msgid "Export Content"
-msgstr "Bestanden exporteren"
+msgstr "Exporteer inhoud"
 
 #: ./browser/zipfiletransportprefs.py:42
 msgid "File Type"
@@ -126,7 +126,7 @@ msgstr "Volgende bestanden worden geëxporteerd in een Zip-bestand:"
 
 #: ./browser/interfaces.py:33
 msgid "The name of the file downloaded to your local machine."
-msgstr "Naam van het bestand dat gedownload wordt."
+msgstr "Naam van het bestand:"
 
 #: ./browser/interfaces.py:44
 msgid "The names of people that have contributed to imported item(s).  Each contributor should be on a separate line."

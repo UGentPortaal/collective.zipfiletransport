@@ -60,8 +60,6 @@ class ExportForm(EditForm):
     form_fields['filename'].custom_widget = ExportWidget
 
     label = _(u'Export Content')
-    description = _(u'All files in the folder will be exported in .zip file format')
-
 
     def __init__(self, context, request):
         self.context = context

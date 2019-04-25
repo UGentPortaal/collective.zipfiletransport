@@ -59,8 +59,6 @@ try:
 except:
     HAS_PAC = False
 
-from ugent.infofiche.interfaces import IInfofiche
-
 class ZipFileTransportUtility(SimpleItem):
     """ ZipFileTransport Utility """
 
@@ -426,12 +424,6 @@ class ZipFileTransportUtility(SimpleItem):
 
                     if object_path[-5:] != ".html" and object_path[-4:] != ".htm":
                         object_extension = ".html"
-
-            # export for ugent.infofiche contenttype, PCM-494 
-            elif self._objImplementsInterface(obj, IInfofiche):
-                file_data = obj.exportToHtml()
-                object_extension = ".html"
-                object_path = object_path.replace(context_path + '/', '')
 
             else:
                 continue

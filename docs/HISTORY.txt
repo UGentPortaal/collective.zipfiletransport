@@ -63,7 +63,7 @@ Changelog
 -----
 
   * Minor documentation changes
-  * Repackaging; bad egg (missing docs folder)
+3.2.5-ugentPCM940 (2019-04-29)
 
 2.2.0
 -----

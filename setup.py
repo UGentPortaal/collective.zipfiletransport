@@ -23,7 +23,7 @@ __version__   = '$ Revision 0.0 $'[11:-2]
 from setuptools import setup, find_packages
 import os
 
-version = '3.2.5-ugentPCM940'
+version = '3.2.6-ugentPCM941.dev0'
 
 setup(name='collective.zipfiletransport',
       version=version,

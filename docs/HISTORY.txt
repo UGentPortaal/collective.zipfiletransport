@@ -63,8 +63,8 @@ Changelog
 -----
 
   * Minor documentation changes
-3.2.6-ugentPCM941 (unreleased)
-------------------------------
+3.2.3+pcm941 (2019-05-02)
+-------------------------
 
 - Nothing changed yet.
 

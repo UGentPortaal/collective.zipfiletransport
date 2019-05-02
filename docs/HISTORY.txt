@@ -63,6 +63,12 @@ Changelog
 -----
 
   * Minor documentation changes
+3.2.3+pcm942 (unreleased)
+-------------------------
+
+- Nothing changed yet.
+
+
 3.2.3+pcm941 (2019-05-02)
 -------------------------
 
